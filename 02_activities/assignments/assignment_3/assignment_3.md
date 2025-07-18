@@ -53,11 +53,17 @@
 * The branch name for your repo should be: `assignment-3`
 * What to submit for this assignment:
     * A folder/directory containing:
-        * This file (assignment_3.md)
-        * Two data visualizations 
+        * This file (assignment_3.md): assignment_3.md
+        * Two data visualizations: 
+            - Viz 1 (Python Sankey): sankey_cepg_funding.html (viz final output), assignment_3.ipynb (Python code)
+            - VIz 2 (Tableau Sankey): Visualization.png (viz final output), tableau-visualization.twb (Tableau workbook)
         * Two markdown files for each both visualizations with their written descriptions.
-        * Link to your dataset of choice.
-        * Complete and commented code as an appendix (for your visualization made with Python, and for the other, if relevant) 
+            - Viz 1 (Python Sankey): python-viz-sankey-desc.md
+            - Viz 2 (Tableau Sankey): tableau-viz-sankey.desc.md
+        * Link to your dataset of choice: included above in this file (assignment_3.md). Pasting for reference: https://data.ontario.ca/dataset/478833ac-8c11-4d06-906f-4c8cbec852ee/resource/317569c0-70d2-4fea-b5f5-64d432faceae/download/2024-25_cepg_recipients_web_en.csv
+        * Complete and commented code as an appendix (for your visualization made with Python, and for the other, if relevant)
+            - Viz 1 (Python Sankey): assignment_3.ipynb (Python code)
+            - VIz 2 (Tableau Sankey): tableau-visualization.twb (Tableau workbook)
 * What the pull request link should look like for this assignment: `https://github.com/<your_github_username>/visualization/pull/<pr_id>`
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
