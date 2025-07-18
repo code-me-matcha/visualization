@@ -1,0 +1,39 @@
+Source,Target,Value,Count,Avg_Funding
+Towns,Generators & Power,1100173.0,25,44006.92
+Townships/Municipalities,Generators & Power,438875.0,9,48763.88888888889
+First Nations,Generators & Power,355882.0,8,44485.25
+Towns,Communications Equipment,280018.0,6,46669.666666666664
+Towns,Drones & Surveillance,225757.0,6,37626.166666666664
+Towns,Flood Response,147360.0,5,29472.0
+First Nations,Flood Response,142722.0,3,47574.0
+Other Organizations,Generators & Power,141605.0,3,47201.666666666664
+Towns,Other Equipment,140700.0,3,46900.0
+Townships/Municipalities,Communications Equipment,131743.0,3,43914.333333333336
+Towns,Fire Response,120097.0,3,40032.333333333336
+Townships/Municipalities,Other Equipment,117495.0,3,39165.0
+Counties,Generators & Power,99997.0,2,49998.5
+First Nations,Other Equipment,99956.0,2,49978.0
+Townships/Municipalities,Flood Response,99262.0,2,49631.0
+Local Services Boards,Fire Response,97995.0,2,48997.5
+First Nations,Training & Education,97356.0,2,48678.0
+First Nations,Drones & Surveillance,92900.0,2,46450.0
+Local Services Boards,Communications Equipment,92155.0,2,46077.5
+Cities,Drones & Surveillance,91000.0,2,45500.0
+Cities,Generators & Power,70890.0,2,35445.0
+Emergency Services,Generators & Power,66679.0,2,33339.5
+Townships/Municipalities,Drones & Surveillance,59750.0,2,29875.0
+Other Organizations,Drones & Surveillance,50000.0,1,50000.0
+First Nations,Fire Response,50000.0,1,50000.0
+Towns,Training & Education,50000.0,1,50000.0
+Emergency Services,Other Equipment,49954.0,1,49954.0
+Local Services Boards,Drones & Surveillance,49922.0,1,49922.0
+First Nations,Communications Equipment,49840.0,1,49840.0
+Counties,Flood Response,49774.0,1,49774.0
+Cities,Flood Response,49720.0,1,49720.0
+Other Organizations,Fire Response,49558.0,1,49558.0
+Other Organizations,Communications Equipment,49502.0,1,49502.0
+Townships/Municipalities,Fire Response,48855.0,1,48855.0
+Other Organizations,Flood Response,43780.0,1,43780.0
+Other Organizations,Emergency Shelters,35250.0,1,35250.0
+First Nations,Emergency Shelters,30750.0,1,30750.0
+Emergency Services,Drones & Surveillance,23250.0,1,23250.0
