@@ -8,23 +8,23 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
+        Answered in each viz's respective markdown file - python-viz-sankey-desc.md and tableau-viz-sankey-desc.md
     > Who is your intended audience? 
-    
+        Answered in each viz's respective markdown file - python-viz-sankey-desc.md and tableau-viz-sankey-desc.md
     > What information or message are you trying to convey with your visualization? 
-    
+        Answered in each viz's respective markdown file - python-viz-sankey-desc.md and tableau-viz-sankey-desc.md
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    
+        Answered in each viz's respective markdown file - python-viz-sankey-desc.md and tableau-viz-sankey-desc.md   
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+        Answered in each viz's respective markdown file - python-viz-sankey-desc.md and tableau-viz-sankey-desc.md 
     > How did you ensure that your data visualization is accessible?  
-    
+        Answered in each viz's respective markdown file - python-viz-sankey-desc.md and tableau-viz-sankey-desc.md  
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+        Answered in each viz's respective markdown file - python-viz-sankey-desc.md and tableau-viz-sankey-desc.md  
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+        Answered in each viz's respective markdown file - python-viz-sankey-desc.md and tableau-viz-sankey-desc.md
     > What ‘underwater labour’ contributed to your final data visualization product?
-
+        Answered in each viz's respective markdown file - python-viz-sankey-desc.md and tableau-viz-sankey-desc.md
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
  
