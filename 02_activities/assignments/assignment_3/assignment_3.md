@@ -5,6 +5,7 @@
 ### Requirements:
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
+    Chosen dataset: https://data.ontario.ca/dataset/478833ac-8c11-4d06-906f-4c8cbec852ee/resource/317569c0-70d2-4fea-b5f5-64d432faceae/download/2024-25_cepg_recipients_web_en.csv 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
