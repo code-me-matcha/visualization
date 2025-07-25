@@ -1,7 +1,7 @@
 
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-        I used Tableau to create my Sankey diagram, specifically the Sankey web extension to streamline creation of the viz.
+        I used Tableau to create my treemap diagram.
     > Who is your intended audience? 
         My intended audience includes Ontario government officials, funding recipients (municipalities, organizations), community stakeholders, and emergency first-responders (firefighters, police departments, etc). This audience needs transparency on funding allocation.
     > What information or message are you trying to convey with your visualization? 
@@ -30,4 +30,4 @@
         I chose to exclude minor recipients and non-funding metrics to avoid clutter, focusing on clear flow and visualization. 
     
     > What ‘underwater labour’ contributed to your final data visualization product?
-        Underwater labour that contributed to my final data viz product includes data collection from government soruces, cleaning (standardizing formats, grouping free-form responses or sentence responses in the 'Description' column), exploratory analysis, and testing iterations. These ensure accuracy and relevance but are often unseen. Additionally, underwater labour was also required for the Sankey Tableau viz extension to be created, which greatly streamlined the process of making this chart in Tableau as the chart was not a readily available chart type. 
+        Underwater labour that contributed to my final data viz product includes data collection from government soruces, cleaning (standardizing formats, grouping free-form responses or sentence responses in the 'Description' column), exploratory analysis, and testing iterations. These ensure accuracy and relevance but are often unseen. 
